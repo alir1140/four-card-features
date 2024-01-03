@@ -96,7 +96,7 @@ font-size: 12px;
 .border-blue {
     border-top :5px solid var(--clr-blue)
 }
-@media (max-width:600px ){
+@media (max-width:800px ){
     .main-leyout {
         display: grid;
     } 
